@@ -1,15 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
-> Description the project.
+# A personal portfolio site developed with Bootstrap. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- Bootstrap
+- VS Code
 
 ## Live Demo (if available)
 
